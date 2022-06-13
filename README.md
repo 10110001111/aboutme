@@ -6,7 +6,7 @@ https://al.linkedin.com/in/wasiibrahimi
 
 ### GitHub:
 https://github.com/leadingBits
-#### GitHub Pages
+#### GitHub Pages:
 https://leadingbits.github.io/aboutMe/
 
 
