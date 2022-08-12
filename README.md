@@ -1,5 +1,5 @@
 # About Me: 
-A Network/Systems Engineer with big dreams, gentle humour and a little bit of sarcasm;
+A Network/Systems Engineer with big dreams, gentle humour, and a little bit of sarcasm;
 
 ## LinkedIn: 
 https://al.linkedin.com/in/wasiibrahimi
