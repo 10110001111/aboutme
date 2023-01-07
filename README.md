@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Wasi</h1>
-<h3 align="center">A Network/Systems Admin with big dreams, gentle humour, and a little bit of sarcasm;</h3>
+<h3 align="center">A Network/Systems Secuirty Analyst with big dreams, gentle humour, and a little bit of sarcasm;</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leadingbits&label=Profile%20views&color=0e75b6&style=flat" alt="leadingbits" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leadingbits" alt="leadingbits" /></a> </p>
 
-- I’m currently working in **a freelance capacity as a Network/Systems Engineer.**
+- I’m currently working in the capacity of a **Cyber Security Analyst**
 
 - I’m looking to collaborate on **Networking, Cloud, and Cyber Security related projects.**
 
