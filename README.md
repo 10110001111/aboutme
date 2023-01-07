@@ -11,7 +11,6 @@
 
 - Ask me about **Python, Docker, Cloud, Networking, Security.**
 
-- Can reach me at **ibrahimi@duck.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
