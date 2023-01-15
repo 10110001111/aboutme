@@ -7,9 +7,9 @@
 
 - I’m currently working in the capacity of a **Network Security Analyst**
 
-- I’m looking to collaborate on **Networking, Cloud, and Cyber Security related projects.**
+- I’m looking to collaborate on **Networking, Cloud, and Cyber Security related projects**.
 
-- Ask me about **Python, Docker, Cloud, Networking, Security.**
+- Ask me about **Python, Docker, Cloud, Networking, Security**.
 
 
 <h3 align="left">Connect with me:</h3>
@@ -47,6 +47,12 @@
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> </a> 
  
  <a href="https://www.vmware.com/products/vsphere.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/vmware-vsphere.svg" alt="VMWarevSphere" width="135" height="40"/> </a> 
+ 
+ <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Cisco_Systems/Cisco_Systems-Logo.wine.svg" alt="Cisco Systems" width="100" height="45"/> </a> 
+ 
+ <a href="https://www.paloaltonetworks.com/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Palo_Alto_Networks/Palo_Alto_Networks-Logo.wine.svg" alt="Palo Alto Networks" width="80" height="80"/> </a> 
+ 
+ <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/kali/images/99996646-d340-4b8f-b820-e25525048e9c.svg" alt="Kali Linux" width="60" height="60"/> </a> 
 
  
  </p>
