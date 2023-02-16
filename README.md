@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leadingbits" alt="leadingbits" /></a> </p>
 
-- I’m currently working in the capacity of a **Network Security Analyst**.
+- I’m currently working in the capacity of a **Network Admin**.
 
 - I’m looking to collaborate on **Networking, Cloud, and Cyber Security** related projects.
 
