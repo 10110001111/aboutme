@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Wasi</h1>
-<h3 align="center">A Network Specialist specializing in Network Security</h3>
+<h3 align="center">A Network Specialist specializing in Network Security & Routing/Switching</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leadingbits&label=Profile%20views&color=0e75b6&style=flat" alt="leadingbits" /> </p>
 
