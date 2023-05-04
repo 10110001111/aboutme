@@ -52,7 +52,7 @@
  
  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Cisco_Systems/Cisco_Systems-Logo.wine.svg" alt="Cisco Systems" width="100" height="45"/> </a> 
  
- <a href="https://www.paloaltonetworks.com/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Palo_Alto_Networks/Palo_Alto_Networks-Logo.wine.svg" alt="Palo Alto Networks" width="80" height="80"/> </a> 
+ <a href="https://www.paloaltonetworks.com/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Palo_Alto_Networks/Palo_Alto_Networks-Logo.wine.svg" alt="Palo Alto Networks" width="80" height="70"/> </a> 
  
  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/kali/images/99996646-d340-4b8f-b820-e25525048e9c.svg" alt="Kali Linux" width="60" height="60"/> </a> 
 
