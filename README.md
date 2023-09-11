@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Wasi</h1>
 <h3 align="center">A Network Specialist specializing in Network Security</h3>
 
-![](https://komarev.com/ghpvc/?username=wibrahimi&style=flat-square)
+![](https://komarev.com/ghpvc/?username=wibrahimi&style=flat)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wibrahimi" alt="wibrahimi" /></a> </p>
 
