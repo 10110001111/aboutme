@@ -1,6 +1,7 @@
 
 <head>
- <link rel="icon" href="https://github.com/wibrahimi/aboutme/blob/main/assets/favicon/favicon.ico" type="image/x-icon">
+
+ <link rel="shortcut icon" type="image/x-icon" href="https://github.com/wibrahimi/aboutme/blob/main/assets/favicon/favicon.ico">
  
 </head>
 
