@@ -1,6 +1,7 @@
 
 <head>
-<link rel="shortcut icon" type="image/x-icon" href="https://github.com/wibrahimi/aboutme/blob/main/assets/favicon/favicon.ico">
+ <link rel="icon" href="https://github.com/wibrahimi/aboutme/blob/main/assets/favicon/favicon.ico" type="image/x-icon">
+ 
 </head>
 
 <h1 align="center">Hi, I'm Wasi</h1>
