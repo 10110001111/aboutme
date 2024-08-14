@@ -26,6 +26,12 @@
  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/kali/images/99996646-d340-4b8f-b820-e25525048e9c.svg" alt="Kali Linux" width="60" height="55"/> </a> 
  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Cisco_Systems/Cisco_Systems-Logo.wine.svg" alt="Cisco Systems" width="60" height="75"/> </a> 
  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" alt="Python" width="100" height="75"/> </a> 
+ <a href="https://vmware.com/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/VMware/VMware-Logo.wine.svg" alt="VMware" width="80" height="85"/> </a> 
+ <a href="https://www.ibm.com/qradar" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/IBM/IBM-Logo.wine.svg" alt="IBM" width="75" height="80"/> </a> 
+
+
+
+
  
 
 
