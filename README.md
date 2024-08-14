@@ -1,3 +1,15 @@
+
+<head>
+
+<link rel="shortcut icon" type="image/x-icon" href="./assets/favicon/favicon-32x32.png?">
+
+ 
+</head>
+
+
+
+
+
 <h1 align="center">Hi, I'm Wasi</h1>
 <h3 align="center">A Network Engineer specializing in Network Security</h3>
 
