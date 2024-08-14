@@ -1,14 +1,7 @@
 
 <head>
-
 <link rel="shortcut icon" type="image/x-icon" href="./assets/favicon/favicon.ico?">
-
- 
 </head>
-
-
-
-
 
 <h1 align="center">Hi, I'm Wasi</h1>
 <h3 align="center">A Network Engineer specializing in Network Security</h3>
@@ -40,16 +33,6 @@
  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.svg" alt="Python" width="100" height="75"/> </a> 
  <a href="https://vmware.com/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/VMware/VMware-Logo.wine.svg" alt="VMware" width="80" height="85"/> </a> 
  <a href="https://www.ibm.com/qradar" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/IBM/IBM-Logo.wine.svg" alt="IBM" width="75" height="80"/> </a> 
-
-
-
-
- 
-
-
-
-
- 
 
  </p>
 
