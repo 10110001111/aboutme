@@ -1,7 +1,7 @@
 
 <head>
 
-<link rel="shortcut icon" type="image/x-icon" href="./assets/favicon/favicon-32x32.png?">
+<link rel="shortcut icon" type="image/x-icon" href="./assets/favicon/favicon.ico?">
 
  
 </head>
