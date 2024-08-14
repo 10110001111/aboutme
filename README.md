@@ -1,7 +1,7 @@
 
 <head>
  
-<link rel="icon" href="https://github.com/wibrahimi/aboutme/blob/main/assets/favicon/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://github.com/wibrahimi/aboutme/blob/main/assets/favicon/favicon-32x32.png" type="image/x-icon">
 
  
 </head>
