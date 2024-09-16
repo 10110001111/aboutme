@@ -1,7 +1,7 @@
 
 <head>
  
-<link rel="icon" href="https://github.com/1011000111100/aboutme/blob/main/assets/favicon/favicon-16x16.png?" type="image/x-icon">
+<link rel="icon" href="https://github.com/10110001111/aboutme/blob/main/assets/favicon/favicon-16x16.png?" type="image/x-icon">
 
  
 </head>
@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I'm Wasi</h1>
 <h3 align="center">A Network Engineer specializing in Network Security</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1011000111100" alt="1011000111100" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=10110001111" alt="10110001111" /></a> </p>
 
 - I’m currently working in the capacity of a **Network Security Engineer**.
 
